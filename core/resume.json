@@ -2,7 +2,6 @@
     "basics": {
         "name": "Catherine Roebuck",
         "label": "Technology User Advocate",
-        "picture": "",
         "email": "c.agnes.r@gmail.com",
         "phone": "(310) 531-4560",
         "website": "",
@@ -28,7 +27,6 @@
             "position": "User Experience Specialist, Intern",
             "website": "https://www.inl.gov",
             "startDate": "2015-06-01",
-            "endDate": "",
             "summary": "Leads usability strategy and UX development for a web­based application for bioenergy feedstock data management. Conducts user testing, recommends and implements changes to site design, layout, content, functionality and information architecture.",
             "highlights": []
         },
@@ -48,7 +46,6 @@
             "position": "User Experience Researcher",
             "website": "http://www.bostonphil.org",
             "startDate": "2016-04-01",
-            "endDate": "2016-06-30",
             "summary": "",
             "highlights": []
         }
